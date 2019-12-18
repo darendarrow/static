@@ -110,15 +110,15 @@ https://git.soma.salesforce.com/SDS-TVM/nessus_agent_k8s_daemonset/blob/master/n
 
 * OSRB-build EKS images with Nessus Agent
 
-![Custom built EKS image built by Salesforce OSRB](OSRBImageOption.png "OSRB flow")
+![Custom built EKS image built by Salesforce OSRB](https://raw.githubusercontent.com/darendarrow/static/master/NessKube/OSRBImageOption.png "OSRB flow")
 
 * Vanilla EKS with containerized NessusAgent
 
-![Vanilla EKS with NessusAgent as a DaemonSet](DaemonSet.png "Vanilla EKS with NessusAgent as a DaemonSet")
+![Vanilla EKS with NessusAgent as a DaemonSet](https://raw.githubusercontent.com/darendarrow/static/master/NessKube/DaemonSet.png "Vanilla EKS with NessusAgent as a DaemonSet")
 
 * OS-less container
 
-![Scratch-based container image](Container.png "Scratch-based container image")
+![Scratch-based container image](https://raw.githubusercontent.com/darendarrow/static/master/NessKube/Container.png "Scratch-based container image")
 
 
 ## Evaluation criteria
